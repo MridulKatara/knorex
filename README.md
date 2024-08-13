@@ -4,6 +4,7 @@ A React application built with Vite for managing users. This application feature
 
 ## Features
 
+
 - **User List**: Display a list of users with options to select and delete.
 - **Sign Up Form**: Allows users to sign up with validation for password complexity.
 - **Delete User Prompt**: Confirms deletion of a user with a modal-like prompt.
